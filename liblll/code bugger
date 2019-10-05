@@ -12,7 +12,7 @@ void division(int temp[],int gen[],int n,int r)
              else
                  temp[k]=1;
      } }}
-int main()
+int32_t main()
 //{int n,r,message[50],gen[50],temp[50];
  cout<<"At Sender's End "<<endl;
  cout<<"Enter the number of message bits : ";
