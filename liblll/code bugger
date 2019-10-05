@@ -20,7 +20,7 @@ int main()
  //cout<<"Enter the number of generator bits : ";
  cin>>l;
  cout<<"Enter the message : ";
- for(int i=0;i<n;i++)
+ for(int i=1;i<=n;i++)
      cin>>message[i];
  cout<<"Enter the generator : ";
  for(int i=0;i<r;i++)
